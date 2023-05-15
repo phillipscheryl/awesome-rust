@@ -5,7 +5,7 @@ A curated list of Rust code and resources.
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Table of contents
-
+ 
 <!-- toc -->
 
 - [Applications](#applications)
